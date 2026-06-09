@@ -1,0 +1,10 @@
+Staging & Committing
+
+git add <file> # Stage a file
+git add . # Stage all changes
+git status # Show working tree status
+git diff # Show unstaged changes
+git commit -m "message" # Commit staged changes
+git commit -am "message" # Stage & commit tracked files
+Copy
+Branching & Merging
